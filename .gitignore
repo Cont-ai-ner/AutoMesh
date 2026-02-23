@@ -1,0 +1,14 @@
+# Ignore large model weights
+weights.pt
+weights.ckpt
+checkpoints.pt
+
+# Ignore temporary outputs
+output
+review_evidence
+__pycache__
+.log
+
+# Ignore environment files
+.venv
+env
